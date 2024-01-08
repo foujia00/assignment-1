@@ -10,6 +10,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
+    margin: 0px 60px 0px 60px;
 }
 
 .banner-content {
@@ -17,7 +18,9 @@ body {
     text-align: center;
     max-width: 632px;
 }
-
+.off{
+    margin: 0px 60px 0px 60px;
+}
 .banner-greeting {
     color: #FFF;
     font-size: 32px;
@@ -76,6 +79,7 @@ body {
     justify-content: space-between;
     text-align: center;
     background-position: center;
+    margin: 100px 60px 0px 60px;
 }
 
 .new-year-pic {
@@ -134,10 +138,12 @@ body {
 .portfolio {
     color: #FFF;
     width: 1600px;
+    margin: 0px 60px 0px 60px;
 }
 .subscribe{
     border-radius: 16px;
 background: rgba(255, 0, 0, 0.05);
+margin: 0px 60px 0px 60px;
 }
 .mail{
     display: block;
@@ -159,4 +165,35 @@ text-align: center;
 font-size: 20px;
 font-weight: 400;
 line-height: 32px; 
+}
+.btn{
+    text-align: center;
+}
+.gmail{
+    border-color: #F00;
+}
+.btn-srb{
+color: #FFF;
+background-color: #F00;
+}
+.footer{
+    background: #070211;
+    padding: 120px 160px 0px 160px;
+    margin-top: 100px;
+}
+.address    {
+    color: #FFF;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;
+}
+.call{
+    color: #FFF;
+}
+.website{
+    color: #FFF;
+}
+.right{
+    color: #FFF;
+    padding-top: 100px;
 }
