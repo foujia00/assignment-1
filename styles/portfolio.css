@@ -1,0 +1,79 @@
+/* Common Shared Styles */
+body {
+    font-family: 'Merriweather', serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* banner Related Styles */
+.banner {
+    background-image: url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+
+.banner-content {
+    padding: 100px 340px 170px 340px;
+    text-align: center;
+    max-width: 632px;
+}
+
+.banner-greeting {
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.banner-title {
+    font-size: 72px;
+    color: #FFF;
+    font-weight: 900;
+    margin-top: 0;
+    line-height: 95px;
+}
+
+/* 65% off related styles */
+.section-title {
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.deals {
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.catagories {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 0;
+}
+
+.new-year-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 802.9px;
+    height: 500px;
+}
+
+.welcome {
+    display: flex;
+    padding: o 140px 0 140px;
+    align-items: center;
+}
+
+.new-year-pic {
+    width: 319.83px;
+    height: 464.662px;
+}
